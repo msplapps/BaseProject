@@ -1,0 +1,67 @@
+PODS:
+  - AccountKit (4.31.0)
+  - Alamofire (4.7.0)
+  - Crashlytics (3.10.0):
+    - Fabric (~> 1.7.3)
+  - DeviceKit (1.3.2)
+  - Fabric (1.7.3)
+  - IQKeyboardManagerSwift (5.0.7)
+  - MarqueeLabel/Swift (3.1.4)
+  - MBProgressHUD (1.1.0)
+  - NotificationBannerSwift (1.6.1):
+    - MarqueeLabel/Swift
+    - SnapKit (~> 4.0)
+  - SDWebImage (4.3.0):
+    - SDWebImage/Core (= 4.3.0)
+  - SDWebImage/Core (4.3.0)
+  - SnapKit (4.0.0)
+  - SwiftLint (0.25.0)
+  - SwiftyJSON (4.0.0)
+
+DEPENDENCIES:
+  - AccountKit
+  - Alamofire
+  - Crashlytics
+  - DeviceKit (~> 1.3.0)
+  - Fabric
+  - IQKeyboardManagerSwift
+  - MBProgressHUD (~> 1.1.0)
+  - NotificationBannerSwift
+  - SDWebImage (~> 4.0)
+  - SwiftLint
+  - SwiftyJSON
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - AccountKit
+    - Alamofire
+    - Crashlytics
+    - DeviceKit
+    - Fabric
+    - IQKeyboardManagerSwift
+    - MarqueeLabel
+    - MBProgressHUD
+    - NotificationBannerSwift
+    - SDWebImage
+    - SnapKit
+    - SwiftLint
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  AccountKit: f3e48047e6fb1c433dff37c61158fd32bbc482cf
+  Alamofire: 907e0a98eb68cdb7f9d1f541a563d6ac5dc77b25
+  Crashlytics: a989ef242b66605577a425733797f810bd2725eb
+  DeviceKit: f763607473cdd286a69d1957de099bdbd8391db5
+  Fabric: bb495bb9a7a7677c6d03a1f8b83d95bc49b47e41
+  IQKeyboardManagerSwift: 30fb3a61de1af53a95e02b80fb54ed0a19d5ede5
+  MarqueeLabel: bf768455fe88d427f71476ebb23f9092b660f40b
+  MBProgressHUD: e7baa36a220447d8aeb12769bf0585582f3866d9
+  NotificationBannerSwift: 1fc2955381e6eb26d958ba32160fc41721b9b689
+  SDWebImage: 6da6c8bca115addc4de8613362e1b15f66333825
+  SnapKit: a42d492c16e80209130a3379f73596c3454b7694
+  SwiftLint: e14651157288e9e01d6e1a71db7014fb5744a8ea
+  SwiftyJSON: 070dabdcb1beb81b247c65ffa3a79dbbfb3b48aa
+
+PODFILE CHECKSUM: 4d2dcc889531ca0e9ebc942cf57a13eb522d1518
+
+COCOAPODS: 1.5.3
